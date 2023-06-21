@@ -1,9 +1,12 @@
-# timewin
-A simple implementation of the GNU/Linux `time` command line utility for windows.
+# timewin 🕰️💻
 
-Here is a simple example of its usage:
+A simple implementation of the GNU/Linux🐧 `time` command line utility for Windows.
 
-`
+## Example
+
+Here is a simple example of how to use `timewin`:
+
+```powershell
 PS C:\> timewin dir
   The volume in C drive has no name.
   Volume Serial Number is NONO-NONO
@@ -18,4 +21,3 @@ PS C:\> timewin dir
                14 folder(s) NONONONONO bytes available
 
 Took 12ms
-`
